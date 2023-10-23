@@ -6,5 +6,3 @@ Hi there
 Hi there
 Adding local changes
 HELLO
-hhhhhhhhhhhhhhhh
-Hello todays DSM was great
